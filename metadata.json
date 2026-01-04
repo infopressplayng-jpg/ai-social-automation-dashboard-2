@@ -1,0 +1,5 @@
+{
+  "name": "AI Social Automation Dashboard",
+  "description": "A centralized dashboard to control and automate 10 cloud Android devices for social media tasks, assisted by AI for intelligent action planning and content generation.",
+  "requestFramePermissions": []
+}
